@@ -1,3 +1,7 @@
+
+![image](https://github.com/cristobalgrau/automation-fill-report-pdf-to-word/assets/119089907/c9db6e26-d217-44c6-ae77-948873aaa9b0)
+
+
 # Automation: Fill out a Table in a Word Document from a PDF information
 
 
